@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jayaditya Shah a BSc. Tech Student at Aalto University studying Quantum Technology.
+- 👋 Hi, I’m Jayaditya Shah a BSc Quantum Technology Student at Aalto University.
 - 👀 I’m interested in Web Development, Machine Learning and Data Analysis. 
 - 🌱 I’m currently learning Full Stack Development and Quantum Technology
 - 💞️ I’m looking to collaborate on anything interesting related to web dev or machine learning :D
